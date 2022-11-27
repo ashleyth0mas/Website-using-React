@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "react-router-dom"
 import './Search.css'
 const Search = ({ CartItem }) => {
-  // fixed Header
+
   window.addEventListener("scroll", function () {
     const search = document.querySelector(".search")
     search.classList.toggle("active", window.scrollY > 100)
