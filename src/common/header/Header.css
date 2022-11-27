@@ -1,4 +1,4 @@
-/*------head-----------*/
+
 .head {
   background-color: #0f3460;
   padding: 10px 0;
@@ -11,8 +11,7 @@
   margin-right: 30px;
   font-size: 13px;
 }
-/*------head-----------*/
-/*------search-----------*/
+
 .search {
   padding: 20px 0;
 }
@@ -68,7 +67,7 @@
 .search .f_flex {
   justify-content: end;
 }
-/*------search-----------*/
+
 .catgrories {
   background-color: #f6f9fc;
   padding: 0px 30px;
